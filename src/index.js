@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { render } from "./render";
 import { speakContent } from "./speak";
 import meow from "meow";
